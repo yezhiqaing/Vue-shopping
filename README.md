@@ -36,3 +36,11 @@
  商品详情
  ----
 ![屏幕截图 2022-11-10 215228](https://user-images.githubusercontent.com/111115896/201114794-381f8b01-6b7d-40f1-99a0-ecc1a6893f08.jpg)
+
+ 
+   
+   
+ 技术栈
+ =
+Vue2+Vant2+Vuex+Vue-router+Axios+Less
+----
